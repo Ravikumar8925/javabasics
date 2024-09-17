@@ -13,7 +13,7 @@ public class tycastingdata {
 			
 			int k=123;
 			float f=k;
-			System.out.println(f);
+			System.out.println(f );
 			System.out.println(p);
 	}
 	
